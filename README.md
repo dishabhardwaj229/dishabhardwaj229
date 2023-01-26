@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm DISHA BHARDWAJ</h1>
 <h3 align="center">FULL STACK DEVELOPER | MYSQL | PYTHON | JAVA DEVELOPER | WEB3 ENTHUSIAST</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw3nVsYOx4QqHgqnkT6yRTzx&ust=1674838007719000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLinu_bX5fwCFQAAAAAdAAAAABAJ](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishabhardwaj229&label=Profile%20views&color=0e75b6&style=flat" alt="dishabhardwaj229" /> </p>
 
